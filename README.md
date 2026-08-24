@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Subscription Tracker
 
 A full-stack subscription renewal dashboard with an in-memory backend. Track recurring services, compare monthly spend, and see renewals that are due within seven days.
@@ -56,3 +57,6 @@ Renewal dates are handled as UTC calendar dates to avoid timezone shifts. `daysU
 ## Notes
 
 Data is intentionally in memory and resets when the backend restarts. This is an assessment application, so no production persistence is included.
+=======
+# quantiphi-vbe
+>>>>>>> e09f366d7f18b35bbc793525184dc7657819ad04
